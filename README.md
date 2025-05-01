@@ -27,7 +27,6 @@ Financial Stress vs Depression
 Depression vs Sleep and Eating Habits
 Family History vs Depression
 
-
 Easy comparison through interactive slicers.
 
 🚀 How to Use:
