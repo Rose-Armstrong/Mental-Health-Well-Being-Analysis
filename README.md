@@ -1,5 +1,5 @@
 # Mental-Health-Well-Being-Analysis
-Mental Health &amp; Well-being Analysis of Students (Excel Dashboard Project)
+Mental Health & Well-being Analysis of Students (Excel Dashboard Project)
 
 📌 Overview:
 This project presents an interactive dashboard analyzing the mental health and well-being of students using an open dataset from Kaggle. The goal is to identify patterns and risk factors related to depression, suicidal thoughts, and overall lifestyle behaviors among students.
