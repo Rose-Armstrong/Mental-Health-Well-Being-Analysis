@@ -4,6 +4,7 @@
 📌 Overview:
 This project presents an interactive dashboard analyzing the mental health and well-being of students using an open dataset from Kaggle. The goal is to identify patterns and risk factors related to depression, suicidal thoughts, and overall lifestyle behaviors among students.
 
+
 🔧 Tools Used:
 
 Microsoft Excel: Pivot Tables, Pivot Charts, Slicers
@@ -11,6 +12,7 @@ Microsoft Excel: Pivot Tables, Pivot Charts, Slicers
 Data Cleaning: Excel formulas (e.g., IF(), SUBSTITUTE(),TRIM() )
 
 Dataset: Student Depression Dataset – Kaggle
+
 
 🧹 Data Cleaning & Preprocessing:
 
@@ -28,6 +30,7 @@ Cleaned up text fields using SUBSTITUTE() to remove unwanted characters (e.g., q
 
 Removed "Others" category from dietary habits for clarity.
 
+
 📊 Dashboard Features:
 Filters: Gender, City, CGPA Category
 
@@ -44,6 +47,7 @@ Depression vs Sleep and Eating Habits
 Family History vs Depression
 
 Easy comparison through interactive slicers.
+
 
 🚀 How to Use:
 Open the Excel file.
