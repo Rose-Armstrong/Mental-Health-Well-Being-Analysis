@@ -51,5 +51,7 @@ Easy comparison through interactive slicers.
 
 🚀 How to Use:
 Open the Excel file.
+
 Use slicers to explore mental health trends across gender, cities, and CGPA categories.
+
 Visualisations will auto-update with slicer input.
